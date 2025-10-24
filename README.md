@@ -10,4 +10,4 @@ Installation
 Running the Script
 1. Open Anaconda Prompt from start menu or terminal.
 2. Navigate to the directory containing the Python file, cd.
-3. run the script with [python filename.py]
+3. Run the script with [python filename.py]
